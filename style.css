@@ -71,3 +71,32 @@
   width: 700px;
   height: 500px;
 }
+@media screen and (max-width: 678px) {
+  .grow-list .list{
+    display: none;
+  }
+  .nav-button{
+    font-size: 14px;
+    padding: 5px 10px;
+  }
+  .navbar-container div img{
+    width: 100px;
+  }
+  .container{
+    padding: 0px;
+  }
+  .navbar-container{
+    padding: 20px;
+  }
+  .banner-container{
+    flex-direction: column-reverse;
+    text-align: center;
+  }
+  .banner-container div img{
+    width: 350px;
+    height: 300px;
+  }
+  .heading-text{
+    font-size: 45px;
+  }
+}
