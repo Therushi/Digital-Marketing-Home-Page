@@ -16,11 +16,12 @@ This is the User-Interface of Landing page of a Digital Marketing Home-Page webs
 
 # Preview
 
-![preview](thumbnail.png)
+![Web preview](thumbnail.png)
+![Mobile preview](./mobile.png)
 
 # Time taken to Complete
 
-`2 hours`
+`2.5 hours`
 
 # you can see Live here 😎
 
